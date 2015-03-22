@@ -1,4 +1,4 @@
-foo modified
+foo - prawdziam modyfikacja na branchu
 c3
 c4
 new Feature
